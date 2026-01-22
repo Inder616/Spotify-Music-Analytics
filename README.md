@@ -8,7 +8,7 @@ The objective is to transform raw music data into **actionable business insights
 
 ---
 
-## 🎯 Project Objectives
+## 🎯 Project Objectives 
 - Analyze overall music catalogue performance
 - Identify popularity trends over time
 - Compare performance across different album types
