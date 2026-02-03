@@ -1,4 +1,4 @@
-# 🎵 Spotify Music Analytics Dashboard
+# 🎵 Spotify Music Analytics Dashboard 
 
 ## 📌 Overview
 This project presents an interactive **Power BI dashboard** built to analyze Spotify music data.  
