@@ -5,7 +5,7 @@ This project presents an interactive **Power BI dashboard** built to analyze Spo
 The analysis focuses on **popularity trends, catalogue quality, and content performance**.
 
 The objective is to transform raw music data into **actionable business insights** through structured data preparation, analytical modeling, and effective visualization. 
-
+ 
 ---
 
 ## 🎯 Project Objectives 
